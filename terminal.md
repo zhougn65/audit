@@ -1,4 +1,4 @@
-:sparkles: **终端安全** :sparkles:
+:sparkles: ## 终端安全 ## :sparkles:
 - A12.6 补丁
 - A12.2 杀毒
 - 屏保密码
