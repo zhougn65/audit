@@ -1,4 +1,4 @@
-# :sparkles: 终端安全 :sparkles:
+## :sparkles: 终端安全 :sparkles:
 - A12.6 补丁
 - A12.2 杀毒
 - 屏保密码
@@ -14,6 +14,8 @@
 - VPN管理
 - 硬盘加密
 - 文件加密
+- DLP
+- 域控离线策略
 
 ## BYOD（Bring Your Own Device）策略
 - 手机
